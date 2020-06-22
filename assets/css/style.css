@@ -1273,9 +1273,16 @@ section {
 
 .team .member .member-info h4 {
   font-weight: 700;
-  margin-bottom: 5px;
+  margin-bottom: 3px;
   font-size: 18px;
   color: #124265;
+}
+
+.team .member .member-info h5 {
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-size: 16px;
+  color: #1e3648;
 }
 
 .team .member .member-info span {
